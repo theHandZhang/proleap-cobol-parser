@@ -99,7 +99,7 @@ public interface CobolPreprocessor {
 
 	final static String INDICATOR_FIELD = "([ABCdD$\\t\\-/*# ])";
 
-	final static String NEWLINE = "\n";
+	final static String NEWLINE = System.lineSeparator();
 
 	final static String WS = " ";
 

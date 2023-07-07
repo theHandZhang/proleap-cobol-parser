@@ -11,7 +11,7 @@ import org.apache.commons.lang.StringUtils;
 
 public class TreeUtils {
 
-	public static final String NEWLINE = "\n";
+	public static final String NEWLINE = System.lineSeparator();
 
 	public static final String TAB = "\t";
 
