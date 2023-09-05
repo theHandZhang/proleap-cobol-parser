@@ -7,7 +7,7 @@
 	<description>An ANTLR4-based parser and grammar for COBOL</description>
 	<groupId>io.github.uwol</groupId>
 	<artifactId>proleap-cobol-parser</artifactId>
-	<version>Z3.0.0</version>
+	<version>Z3.0.1</version>
 	<packaging>jar</packaging>
 	<licenses>
 		<license>
